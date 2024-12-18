@@ -114,7 +114,8 @@ The server will run on the specified port (default: `5000`).
 
 ```json
 {
-  "username": "example",
+  "name": "example",
+  "email":"ex22@gmail.com"
   "password": "password123"
 }
 ```
@@ -125,7 +126,7 @@ The server will run on the specified port (default: `5000`).
 
 ```json
 {
-  "username": "example",
+  "email": "ex22@gmail.com",
   "password": "password123"
 }
 ```
